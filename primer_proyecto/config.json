@@ -1,0 +1,22 @@
+{
+    "ConfigDatabase": {
+        "DB_HOST":"localhost",
+        "DB_USER":"root",
+        "DB_PASSWORD":"",
+        "DB_DATABASE":"ticos"
+    },
+
+    "Correo": {
+        "email_from":"Henryjason2009@hotmail.com",
+        "email_from_name":"Henry Cordero"
+       
+    },
+    "ConfigEmail": {
+
+    	"email_smtp_host":"smtp.live.com",
+    	"email_smtp_port":"25",
+    	"email_smtp_user":"Henryjason2009@hotmail.com",
+    	"email_smtp_pass":"201.203.61.250",
+    	"email_batch_limit":"2"
+    }
+}

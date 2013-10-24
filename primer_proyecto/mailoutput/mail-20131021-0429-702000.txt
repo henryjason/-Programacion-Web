@@ -1,0 +1,29 @@
+To: Nombre_destino <henryjason2009@hotmail.com>
+Subject: Titulo
+Date: Mon, 21 Oct 2013 06:29:29 +0200
+Return-Path: jason2009@hotmail.com
+From: henry <jason2009@hotmail.com>
+Message-ID: <9b300e64923532048f87dc703c24acac@localhost.localdomain>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_9b300e64923532048f87dc703c24acac"
+
+--b1_9b300e64923532048f87dc703c24acac
+Content-Type: text/plain; charset = "iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+Hola mundo. Esta es la primer línean Acá continuo el mensaje
+
+
+--b1_9b300e64923532048f87dc703c24acac
+Content-Type: text/html; charset = "iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+Hola mundo. Esta es la primer línea<br />Acá continuo el <strong>mensaje</strong>
+
+
+
+--b1_9b300e64923532048f87dc703c24acac--
+
